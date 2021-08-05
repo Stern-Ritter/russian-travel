@@ -1,0 +1,10 @@
+.page__section_width_limited {
+  margin: 0 auto;
+  max-width: 928px;
+}
+
+@media (min-width: 1200px) {
+  .page__section_width_limited {
+    max-width: 984px;
+  }
+}

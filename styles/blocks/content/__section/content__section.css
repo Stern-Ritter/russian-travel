@@ -1,0 +1,15 @@
+.content__section {
+  padding-bottom: 64px;
+}
+
+@media (min-width: 752px) {
+  .content__section {
+    padding-bottom: 88px;
+  }
+}
+
+@media (min-width: 976px) {
+  .content__section {
+    padding-bottom: 92px;
+  }
+}

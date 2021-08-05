@@ -1,0 +1,10 @@
+.logo {
+  max-width: 142px;
+  object-fit: contain;
+}
+
+@media (min-width: 576px) {
+  .logo {
+    max-width: 176px;
+  }
+}
